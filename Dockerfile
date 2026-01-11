@@ -1,4 +1,3 @@
-Dockerfile
 FROM mautic/mautic:latest
 
 EXPOSE 80
